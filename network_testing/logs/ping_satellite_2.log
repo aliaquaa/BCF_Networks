@@ -1,0 +1,22 @@
+2026-11-01T20:25:45Z PING 84.17.41.11 (84.17.41.11): 56 data bytes
+2026-11-01T20:25:45Z 64 bytes from 84.17.41.11: icmp_seq=0 ttl=58 time=140.803 ms
+2026-11-01T20:25:46Z 64 bytes from 84.17.41.11: icmp_seq=1 ttl=58 time=47.060 ms
+2026-11-01T20:25:47Z 64 bytes from 84.17.41.11: icmp_seq=2 ttl=58 time=21.638 ms
+2026-11-01T20:25:48Z 64 bytes from 84.17.41.11: icmp_seq=3 ttl=58 time=31.901 ms
+2026-11-01T20:25:49Z 64 bytes from 84.17.41.11: icmp_seq=4 ttl=58 time=26.560 ms
+2026-11-01T20:25:50Z 64 bytes from 84.17.41.11: icmp_seq=5 ttl=58 time=39.442 ms
+2026-11-01T20:25:51Z 64 bytes from 84.17.41.11: icmp_seq=6 ttl=58 time=53.693 ms
+2026-11-01T20:25:53Z Request timeout for icmp_seq 7
+2026-11-01T20:25:54Z Request timeout for icmp_seq 8
+2026-11-01T20:25:55Z Request timeout for icmp_seq 9
+2026-11-01T20:25:56Z Request timeout for icmp_seq 10
+2026-11-01T20:25:57Z Request timeout for icmp_seq 11
+2026-11-01T20:26:01Z Request timeout for icmp_seq 12
+2026-11-01T20:26:02Z Request timeout for icmp_seq 13
+2026-11-01T20:26:03Z Request timeout for icmp_seq 14
+2026-11-01T20:26:04Z Request timeout for icmp_seq 15
+2026-11-01T20:26:05Z Request timeout for icmp_seq 16
+2026-11-01T20:26:06Z 
+2026-11-01T20:26:06Z --- 84.17.41.11 ping statistics ---
+2026-11-01T20:26:06Z 18 packets transmitted, 7 packets received, 61.1% packet loss
+2026-11-01T20:26:06Z round-trip min/avg/max/stddev = 21.638/51.585/140.803/37.877 ms
