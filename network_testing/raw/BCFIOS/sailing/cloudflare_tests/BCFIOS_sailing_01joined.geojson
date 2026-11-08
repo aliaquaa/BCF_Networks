@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BCFIOS_sailing_01joined",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "time": 1793566720, "direction": "download", "bytes": 10000000, "latency": 60.5, "bps": 7925502.5113089085, "duration": 10094.300000011921, "serverTime": 69, "responseSize": 10000300, "loadedLatencies": "46.599999994039536 42.30000001192093 56.099999994039536 45.70000001788139 69.19999998807907 60.20000001788139 50 108.2000000178814 104.7999999821186 138.40000000596046", "title": "van_to_vic", "time_created": "2026-11-01T20:37:52Z", "color": "#2D3FC7", "longitude": -123.132711, "latitude": 49.006394, "altitude": 2.0, "gps_time": 1793566728.0 }, "geometry": { "type": "Point", "coordinates": [ -123.132711, 49.006394 ] } },
+{ "type": "Feature", "properties": { "time": 1793566736, "direction": "download", "bytes": 10000000, "latency": 54.299999982118607, "bps": 4926923.5980297886, "duration": 16237.799999982119, "serverTime": 70, "responseSize": 10000300, "loadedLatencies": "75.09999999403954 72.19999998807907 63.19999998807907 49 57.80000001192093 45.400000005960464 48.80000001192093 43.599999994039536 45.900000005960464 55.20000001788139 62.60000002384186 190.5 150.09999999403954 41.099999994039536 51.19999998807907 51.099999994039536 64.7000000178814", "title": "van_to_vic", "time_created": "2026-11-01T20:37:52Z", "color": "#2D3FC7", "longitude": -123.132711, "latitude": 49.006394, "altitude": 2.0, "gps_time": 1793566728.0 }, "geometry": { "type": "Point", "coordinates": [ -123.132711, 49.006394 ] } }
+]
+}
